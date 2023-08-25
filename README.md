@@ -1,4 +1,5 @@
 # phonebook
+Описание. Файл с данными phonebook.txt.
 
 Класс Phonebook:
 
